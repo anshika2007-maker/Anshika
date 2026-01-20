@@ -1,0 +1,115 @@
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="education.html">Education</a></li>
+    <li><a href="interest.html">Interests</a></li>
+    <li><a href="contact.html">Contact</a></li>
+  </ul>
+</nav>
+<hr>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Anshika Gupta | Home</title>
+</head>
+<body>
+
+<h1>Welcome to My Portfolio</h1>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="interest.html">Interests</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<p>Hello! I am Anshika Gupta. This is my personal portfolio website.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>About Me</title>
+</head>
+<body>
+
+<h1>About Me</h1>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="interest.html">Interests</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<p>I am a student and learning Web Development.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Education</title>
+</head>
+<body>
+
+<h1>My Education</h1>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="interest.html">Interests</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<ul>
+<li>School / College Name</li>
+<li>Course / Class</li>
+<li>Year</li>
+</ul>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Interests</title>
+</head>
+<body>
+
+<h1>My Interests</h1>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="education.html">Education</a></li>
+<li><a href="interest.html">Interests</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<ul>
+<li>Web Designing</li>
+<li>Programming</li>
+<li>Reading</li>
+<li>Learning New Skills</li>
+</ul>
+
+</body>
+</html>
